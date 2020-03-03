@@ -16,7 +16,7 @@ Make a bootable USB / CD - so that you can install a fresh ubuntu server / deskt
 
 Useful Commands (run from top to bottom) -
 
-sudo apt update
+sudo apt update <br>
 sudo apt upgrade
 
 Install NGINX web stack!
